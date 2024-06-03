@@ -1,1 +1,1 @@
-##Burada Colorfull Worlds şirketi için çeşitli haritalandırma çalışmaları yapılmaktadır.
+Burada Colorfull Worlds şirketi için çeşitli haritalandırma çalışmaları yapılmaktadır.
