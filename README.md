@@ -16,7 +16,7 @@ Haritalama projelerimiz, kapsamlı kapsam ve hassasiyet sağlamak için çeşitl
 - **[HydroSHEDS HydroRIVERS](https://www.hydrosheds.org/products/hydrorivers):** Hidrolojik çalışmalar ve su kaynakları yönetimi için çok önemli olan nehir ağlarının yüksek çözünürlüklü bir veritabanı.
 - **[OpenStreetMap](https://www.openstreetmap.org/#map=2/4.6/12.7):** Zengin coğrafi bilgi sağlayan, dünyanın ücretsiz düzenlenebilir bir haritasını oluşturmak için ortak bir proje.
 - **[Milos Makes Maps YouTube Channel](https://www.youtube.com/@milos-makes-maps):** Harita yapım teknikleri ve en iyi uygulamalar hakkında eğitimler ve içgörüler sunan bir kanal.
-
+- **[GADM](https://gadm.org/)**
 
 ## Başlarken
 
